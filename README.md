@@ -1,4 +1,4 @@
-# Confluece Uploader
+# Confluence Uploader
 
 Template-based, CSV feeded mass-creation for and upload of articles to Confluence. 
 
